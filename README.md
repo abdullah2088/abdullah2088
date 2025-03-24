@@ -15,10 +15,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Programming:** Python (Matplotlib, Seaborn, Pandas, NumPy), JavaScript (React.js, Node.js)  
+- **Programming:** Python (Matplotlib, Seaborn, Pandas, NumPy), JavaScript (React.js, Node.js),  dot. Net Frameworks, C /C++  
 - **Data Analytics:** Power BI, Excel  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Firebase  
-- **Databases:** MySQL  
+- **Databases:** MySQL, SQL Server
 - **AI & Machine Learning:** Python (Scikit-learn, TensorFlow)  
 - **Web Development:** React.js, Node.js, Express.js  
 
