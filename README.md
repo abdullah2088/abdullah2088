@@ -33,7 +33,7 @@
 ---
 ### 📌 Featured Projects  
 🔹 [FYP - AI-Powered Hospital Management System](#) *(Coming Soon...)*  
-🔹 [ETL Project - Countries by GDP (Nominal)](https://github.com/abdullah2088/etl-gdp-project)  
+🔹 [ETL Project - [Countries by GDP (Nominal)](https://github.com/abdullah2088/etl-gdp-project)](https://github.com/abdullah2088/Data-Eng-ETL-Project-.git)  
    *Extracted, Transformed, and Loaded GDP data from Wikipedia into CSV & SQLite DB with logging support.*  
 🔹 [Project 1 - Data Dashboard](#) *(Coming Soon...)*  
 🔹 [Project 2 - Python Visualization Toolkit](#) *(Coming Soon...)*  
